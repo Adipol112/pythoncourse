@@ -1,0 +1,7 @@
+print ('hello world')
+name = input('enter your name')
+print(name)
+x=input('enter the first number')
+y=input('entrt the second number')
+z=int(x) * int(y)
+print(f'the result of {x} * { y } = {z}')
